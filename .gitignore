@@ -1,0 +1,19 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Node packages.
+node_modules/
+
+# Project files.
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Dist files.
+dist/*
+!dist/.keep
+
+# Logs
+*.log
