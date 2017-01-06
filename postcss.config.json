@@ -1,0 +1,7 @@
+{
+  "postcss-sorting": {
+    "empty-lines-between-children-rules": 1,
+    "empty-lines-between-media-rules": 1,
+    "empty-lines-before-comment": 1
+  }
+}
